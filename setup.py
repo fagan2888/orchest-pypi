@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="orchest",
-    version="0.0.1",
+    version="0.0.2",
     description="SDK for interacting with Orchest",
     py_modules=["orchest"],
     package_dir={'': 'src'},
